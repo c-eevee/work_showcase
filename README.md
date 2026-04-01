@@ -17,7 +17,7 @@ Connect with me:
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [ETL Practice — Sales Data Cleaning](./ETL_practice/) | Python, pandas, Excel | Cleaned a messy 215-row sales dataset by removing duplicates, standardizing inconsistent region and country values, fixing data types, and handling nulls. Output is Tableau-ready. |
+| [ETL Practice — Sales Data Cleaning](./ETL%20practice/) | Python, pandas, Excel | Cleaned a messy 215-row sales dataset by removing duplicates, standardizing inconsistent region and country values, fixing data types, and handling nulls. Output is Tableau-ready. |
 
 ---
 
